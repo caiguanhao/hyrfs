@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "hZydNgSv18YQSkEcq+r76CnTDnc=",
+			"path": "github.com/caiguanhao/gotogether",
+			"revision": "bdfb76be44965bc06ec39c0ad71972c5c14ba3e3",
+			"revisionTime": "2016-06-25T14:25:26Z"
+		}
+	],
+	"rootPath": "github.com/caiguanhao/hyrfs"
+}
